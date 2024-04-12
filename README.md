@@ -1,6 +1,6 @@
 ## Getting Started
 
-A NextJS starter template with Shad cn UI code added
+A NextJS starter template with shadcn/ui code added
 
 ### Reference
 
